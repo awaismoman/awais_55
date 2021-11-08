@@ -224,6 +224,7 @@ def action():
         print logo2
         print "Enter any Pakistan Mobile number code for cloning"+'\n'
         print 'Enter any code 1 to 49'
+        print'Enter Bangladesh code +880 to +885
         try:
             c = raw_input("\033[1;97mCHOOSE : ")
             k="03"
