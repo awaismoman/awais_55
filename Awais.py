@@ -24,7 +24,7 @@ except ImportError:
     time.sleep(1)
     os.system('Then type: python2 Awais.py')
 
-import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,
+import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
 from mechanize import Browser
